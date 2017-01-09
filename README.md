@@ -1,5 +1,5 @@
 # YMUserDefault
-Simple UserDefault extension for storing, retreving and remove keys.
+Simple UserDefault extension for storing, retrieving and remove keys.
 
 # 1. Add your key name with specific type
 ```
